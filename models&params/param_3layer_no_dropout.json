@@ -1,0 +1,1 @@
+{"units1": 15, "units2": 25, "units3": 5, "learning_rate": 0.002, "activation1": "elu", "activation2": "elu", "activation3": "relu"}
